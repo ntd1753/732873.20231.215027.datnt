@@ -1,6 +1,6 @@
-package lab01.lab1;
+package lab1;
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class bai6_1 {
     public static void main(String[] args){

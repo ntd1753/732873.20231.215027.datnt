@@ -1,7 +1,7 @@
-package lab01.lab1;
+package lab1;
 
-import java.util.Arrays;
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class bai6_5 {
     public static void main(String[] args) {
