@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7567d6a5-fc36-4386-bfc3-ec712bee128b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lab2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai2_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai2_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai2_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai2_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai2_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai6_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai6_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai6_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai6_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai6_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/lab1/bai6_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="7567d6a5-fc36-4386-bfc3-ec712bee128b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/demonstrate-release-flow",
     "last_opened_file_path": "D:/thuchanhoop/732873.20231.215027.datnt/AimProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -131,6 +111,7 @@
       <workItem from="1700571704799" duration="1000" />
       <workItem from="1701099606755" duration="537000" />
       <workItem from="1701178620907" duration="5131000" />
+      <workItem from="1701185008458" duration="61000" />
     </task>
     <servers />
   </component>
