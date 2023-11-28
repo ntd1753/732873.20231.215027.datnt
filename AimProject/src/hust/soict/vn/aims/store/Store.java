@@ -6,19 +6,17 @@ public class Store {
 	private int capacity ;
 	private DigitalVideoDisc itemsInStore[];
 	private int nbDVD=0;
-	
 	public Store(int ca) {
 		this.capacity=ca;
 		itemsInStore = new DigitalVideoDisc[ca];
 	}
-	
 	public void addDVD(DigitalVideoDisc dvd) {
 		if (nbDVD<this.capacity) {
 			this.itemsInStore[nbDVD]=dvd;
 			nbDVD+=1;
 			System.out.println("The disc has been added");
 		}else {
-			System.out.println("The store is full");
+			System.out.println("The store  is full");
 		}
 	}
 	public void removeDVD(DigitalVideoDisc dvd) {
