@@ -15,7 +15,7 @@ public class StoreTest {
 		
 		DigitalVideoDisc dvd3= new DigitalVideoDisc("Aladin", "Animation", 18.99f);
 		store.addDVD(dvd3);
-		
+
 		store.removeDVD(dvd3);
 		store.removeDVD(dvd1);
 		

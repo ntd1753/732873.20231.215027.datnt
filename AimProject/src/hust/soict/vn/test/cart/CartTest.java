@@ -22,8 +22,8 @@ public class CartTest {
 		cart.print();
 		// Test for search
 		cart.search(3);
-		cart.search("The Lion King");
 		cart.search(10);
+		cart.search("The Lion King");
 		cart.search("Spider Man");
 	}
 }

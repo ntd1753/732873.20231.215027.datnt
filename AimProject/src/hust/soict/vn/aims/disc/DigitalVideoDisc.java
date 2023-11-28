@@ -64,7 +64,8 @@ public class DigitalVideoDisc {
     }
     
     public String toString() {
-		String res = String.format("%d. DVD - %s - %s - %s - %d : %f $", this.id, this.title, this.category,this.director, this.length, this.cost);
+		String res = String.format("%d. DVD - %s - %s - %s - %d : %f $",
+                this.id, this.title, this.category,this.director, this.length, this.cost);
 		return res;
 	}
 
