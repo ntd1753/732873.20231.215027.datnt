@@ -6,7 +6,7 @@ import hust.soict.vn.aims.disc.DigitalVideoDisc;
 public class CartTest {
 	
 	public static void main(String[] args) {
-		//20215111
+		//20215027
 		Cart cart = new Cart();
 
 		DigitalVideoDisc dvd1 = new DigitalVideoDisc("The Lion King", "Animation", "Roger Allers", 87, 19.95f);
@@ -20,7 +20,6 @@ public class CartTest {
 
 		// Test for print
 		cart.print();
-
 		// Test for search
 		cart.search(3);
 		cart.search("The Lion King");
