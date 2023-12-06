@@ -1,9 +1,6 @@
-package hust.soict.vn.aims.disc;
+package hust.soict.vn.aims.media;
 
 import java.util.Scanner;
-
-import hust.soict.vn.aims.media.Disc;
-import hust.soict.vn.aims.media.Playable;
 public class DigitalVideoDisc extends Disc implements Playable {
     
 	public DigitalVideoDisc(String title) {
